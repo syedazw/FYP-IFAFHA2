@@ -77,7 +77,7 @@ export default function Dashboard() {
                 <li><Link to="#" className="dropdown-item">Upload Picture</Link></li>
                 <li><Link to="#" className="dropdown-item">Edit Profile</Link></li>
                 <li><hr className="dropdown-divider" /></li>
-                <li><a className="dropdown-item"><Link to="/loginpage" className="nav-link">Sign Out</Link></a></li>
+                <li><a className="dropdown-item"><Link to="/" className="nav-link">Sign Out</Link></a></li>
                 <Outlet />
               </ul>
             </div>
