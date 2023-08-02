@@ -32,7 +32,7 @@ import CreateDoctorAccount from './Pages/admin/CreateDoctorAccount'
 
 
 // import LoginUser from './Form/loginUser'
-import {LoginUser2} from './Form/LoginUser2'
+import LoginUser2 from './Form/LoginUser2'
 import PatientInfo from './Form/createPatientAccount'
 import DoctorInfo from './Form/doctorInfo'
 
